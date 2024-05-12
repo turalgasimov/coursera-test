@@ -1,2 +1,3 @@
-# coursera-test
-Coursera Test Project Repository
+# coursera-web-dev
+
+Coursera Web Dev Repository
